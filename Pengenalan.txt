@@ -1,0 +1,6 @@
+Generic adalah parameter type saat membuat class atau method
+generic memungkinkan untuk mengubah-ubah bentuk type data nya
+
+manfaat menggunakan generic :
+- pengecekan type data nya bisa dilakukan pada saat kompilasi
+- tidak perlu manual pengecekan type dan konversi tipe data
